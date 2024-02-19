@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+   kamil     448     330 pty0     12:39:03 /usr/bin/ps
+   kamil     330     329 pty0     12:07:18 /usr/bin/bash
+   kamil     329       1 ?        12:07:18 /usr/bin/mintty
